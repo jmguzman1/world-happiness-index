@@ -12,7 +12,7 @@ The map below deomonstrates which countries or regions rank the highest in overa
 
 An overactive dashboard was created to show how each of the five factors contributing to happiness in 2019. 
 
-![visual-2](https://github.com/jmguzman1/world-happiness-index/blob/main/visual-2.jpeg)
+![visual-2](https://github.com/jmguzman1/world-happiness-index/blob/main/visual2.png)
 
-![visual-3](https://github.com/jmguzman1/world-happiness-index/blob/main/visual-3.jpeg) 
+![visual-3](https://github.com/jmguzman1/world-happiness-index/blob/main/visual3.png) 
 
