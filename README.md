@@ -14,5 +14,4 @@ An overactive dashboard was created to show how each of the five factors contrib
 
 ![visual-2](https://github.com/jmguzman1/world-happiness-index/blob/main/visual2.png)
 
-![visual-3](https://github.com/jmguzman1/world-happiness-index/blob/main/visual3.tiff)
 
